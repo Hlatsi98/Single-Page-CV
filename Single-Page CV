@@ -1,0 +1,39 @@
+<!Doctype html>
+<html>
+    <head>
+        <title>Mahlatse Selamolela - Software Engineer CV</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta charset="UTF-8">
+        <meta property="og:title" content="Mahlatse Selamolela - Software Engineer CV">
+        <meta property="og:description" content="Aspiring Software Engineer with expertise in Java, Python, and Machine Learning.">
+    </head>
+    <body>
+        <h1>Mahlatse Selamolela</h1>
+        <h3 style="color: green;">Software Engineer</h3>
+
+        <p>Pretoria, South Africa.<br>
+            (+27) 79 601 6713<br>
+            mahlatses8991@gmail.com<br>
+        </p>
+
+        <h3 style="color: green;">Skills</h3>
+        <p>HTML, CSS, JavaScript, Java, PHP, SQL, Python, C++</p>
+
+        <h3 style="color: green;">Education</h3>
+            <p style="color: blue;">Sefako Makgatho Health Sciences University - BSc Hons Computer Science & Information Technology Feb 2024- Dec 2024</p>
+            <p>
+            Data Structures- Gained a strong understanding of algorithms and data management.<br>
+            Database Systems – Collaboratively developed a library management system for SMU.<br>
+            Advanced Database Systems- Developed a health monitoring system with predictive analytics.<br>
+            Android Development- Developing a Safety App using Java.<br>
+
+            </p>
+
+        <h3 style="color: green;">Across the Internet</h3> 
+        <p><a href="https://www.linkedin.com/in/mahlatse-selamolela-497575276?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGFSJwbKlSja7WAysWwq8tQ%3D%3D">LinkedIn Profile</a></p>
+        <p><a href="https://github.com/Hlatsi98">Github Profile</a></p> 
+        
+
+
+    </body>
+</html>
